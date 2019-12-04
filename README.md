@@ -2,7 +2,7 @@
 
 ## About
 
-    this project view the use of Jasmine Library to test your project 
+this project view the use of Jasmine Library to test your project 
 
 ## instruction
 
