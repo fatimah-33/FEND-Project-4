@@ -99,7 +99,7 @@ $(function () {
          */
         /*varible to store the first index of feed and the second */
         var first, second;
-        /*get the DOM to test its elements */
+        /*get the DOM to test its elements, take the first feed & second feed then compare them if they are equal to each other */
         let articles = document.getElementsByTagName('article');
         beforeEach(function (done) {
             loadFeed(0, done);
